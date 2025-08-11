@@ -1,0 +1,10 @@
+alias c='f(){ cc -Wall -Werror -Wextra "$1" -o "${1%.c}"; }; f'
+
+VIM
+
+set noexpandtab
+set tabstop=4
+set shiftwidth=4
+set autoindent
+set smarttab
+
