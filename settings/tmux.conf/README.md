@@ -4,4 +4,4 @@
 
 ### After go to ~ and copy the tmux_conf to the name .tmuz.conf
 
-#### After it open tmux and just do prefix (C-b) r to reload the config
+#### After it open tmux and just do prefix (C-b) r to reload the config and to finalyze do prefix I 
